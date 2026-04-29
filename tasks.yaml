@@ -1,0 +1,20 @@
+research_task:
+  description: >
+    Research "{topic}" briefly with latest trends
+  expected_output: >
+    Short summary (max 200 words)
+  agent: researcher
+
+reporting_task:
+  description: >
+    Convert research into short report
+  expected_output: >
+    Concise markdown (max 300 words)
+  agent: reporting_analyst
+
+scripting_task:
+  description: >
+    Convert report into ONE short podcast script
+  expected_output: >
+    Single script under 300 words
+  agent: scriptwriter
