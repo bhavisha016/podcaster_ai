@@ -73,10 +73,7 @@ python -m src.podcaster.main
 - LLM Orchestration  
 - Prompt Engineering  
 - API Integration  
-- Pipeline Automation  
 
-## 📌 Resume Description
-Built a multi-agent AI system using CrewAI and Groq LLMs to automate content generation, script creation, and audio delivery via Telegram.
 
-## 👤 Author
-Your Name
+
+
